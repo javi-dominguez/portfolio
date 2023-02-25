@@ -16,4 +16,19 @@ export default {
       `}</style>
     </footer>
   ),
+  darkMode: false,
+  navs: [
+    {
+      url: 'https://github.com/javi-dominguez',
+      name: 'GitHub'
+    },
+    {
+      url: 'https://www.linkedin.com/in/dominguezjavier/',
+      name: 'LinkedIn'
+    },
+    {
+      url: 'mailto:javierdominguez09@gmail.com',
+      name: 'Contact Me'
+    }
+  ]
 }
